@@ -1,0 +1,23 @@
+**Guess the Number - Game Rules**
+
+**Objective:**
+Guess the randomly generated number within 7 attempts.
+
+**How to Play:**
+1. The game selects a random number between 0 and 99.
+2. You have 7 chances to guess the correct number.
+3. After each guess, you receive feedback:
+   - "Your guess is higher" if your guess is too high.
+   - "Your guess is lesser" if your guess is too low.
+   - "You found it right!" if you guess correctly.
+4. The game ends when you:
+   - Guess the number correctly.
+   - Exhaust all 7 attempts.
+5. If you fail to guess the number, the correct answer is revealed.
+
+**Winning Condition:**
+- You win if you correctly guess the number within 7 attempts.
+- Otherwise, you lose and must try again.
+
+Good luck and have fun!
+
