@@ -1,0 +1,29 @@
+# 21 Number Game - Rules
+
+## Objective
+The goal of the game is to avoid saying the number **21**. The player who is forced to say **21** loses.
+
+## How to Play
+- The game is played between a player and the computer.
+- The player chooses whether to go first (**F**) or second (**S**).
+- Players take turns counting up from 1, saying **1 to 3 consecutive numbers** on their turn.
+- The computer will then continue the sequence by adding numbers accordingly.
+- The game continues until one of the players reaches 21.
+
+## Game Rules
+1. The player can choose to go first (**F**) or second (**S**).
+2. On each turn, a player can say **1, 2, or 3 numbers** in sequence.
+3. The numbers **must be consecutive**; otherwise, the player loses.
+4. The player forced to say **21** loses the game.
+5. If a player enters incorrect input or non-consecutive numbers, they are disqualified.
+
+## Winning Strategy
+- If going first, try to control the game by ensuring that the opponent reaches **21** first.
+- If going second, follow a strategic pattern based on the nearest multiple of **4**.
+
+## Game End
+- The game ends when a player says **21**, and they lose.
+- The player can also quit the game at any time by choosing the exit option.
+
+Enjoy the game and try to outsmart the computer!
+
