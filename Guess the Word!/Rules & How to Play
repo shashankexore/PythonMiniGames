@@ -1,0 +1,31 @@
+# Guess the Word - Rules
+
+## Objective
+The objective of the game is to guess the randomly selected word correctly before running out of attempts.
+
+## How to Play
+- The computer randomly selects a word from a predefined list.
+- The player must guess the word by suggesting letters one at a time.
+- Each correct guess reveals the letter in its correct position.
+- Each incorrect guess reduces the number of attempts left.
+- The game continues until the player either guesses the word correctly or runs out of turns.
+
+## Game Rules
+1. The player has **12 turns** to guess the word.
+2. The player can **only enter a single letter** at a time.
+3. Correctly guessed letters are displayed in their respective positions.
+4. Incorrect guesses reduce the available turns.
+5. If the player guesses the word before using all turns, they win.
+6. If the player runs out of turns, they lose, and the correct word is revealed.
+
+## Winning Strategy
+- Start with common vowels (A, E, I, O, U) to reveal more letters.
+- Avoid repeating previously guessed letters.
+- Use process of elimination to determine possible words.
+
+## Game End
+- The game ends when the player correctly guesses the word or runs out of turns.
+- If the player wins, the correct word is displayed along with a victory message.
+- If the player loses, the correct word is revealed.
+
+Enjoy the game and challenge your word-guessing skills!
