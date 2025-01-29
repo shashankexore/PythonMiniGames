@@ -1,0 +1,31 @@
+# Hangman Game - Rules
+
+## Objective
+The goal of the game is to guess the secret word correctly before running out of chances.
+
+## How to Play
+- The computer randomly selects a word from a predefined list of fruit names.
+- The player has to guess the word by suggesting letters one at a time.
+- The word is displayed as underscores `_` for unguessed letters.
+- If a guessed letter is correct, it is revealed in its correct position(s) in the word.
+- If a guessed letter is incorrect, the number of chances left decreases.
+- The game continues until the player either guesses the word correctly or runs out of chances.
+
+## Game Rules
+1. The player can only enter **a single letter** per guess.
+2. The guessed letter **must be an alphabet**; non-letter inputs are invalid.
+3. If the guessed letter has already been used, the player must try a different letter.
+4. If all letters in the word are guessed correctly, the player wins.
+5. If the player runs out of chances, they lose, and the correct word is revealed.
+
+## Winning Strategy
+- Start with commonly used vowels (A, E, I, O, U) to uncover parts of the word.
+- Avoid repeating letters already guessed.
+- Try to identify common fruit names based on revealed letters.
+
+## Game End
+- The game ends when the player correctly guesses the word or loses all chances.
+- If the player quits, the game stops immediately.
+
+Enjoy the game and test your vocabulary skills!
+
