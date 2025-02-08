@@ -1,0 +1,32 @@
+### **Rules for Rock, Paper, Scissors:**
+
+1. **Game Mechanics:**
+   - The game is played between a user and the computer.
+   - Both players choose one of the three options: **Rock, Paper, or Scissors**.
+
+2. **Winning Conditions:**
+   - **Rock vs Paper** → **Paper wins** (Paper wraps Rock)
+   - **Rock vs Scissors** → **Rock wins** (Rock crushes Scissors)
+   - **Paper vs Scissors** → **Scissors wins** (Scissors cut Paper)
+   - If both players choose the same option, the game is a **draw**.
+
+3. **How to Play:**
+   - You will be prompted to enter a number:
+     - **1 for Rock**
+     - **2 for Paper**
+     - **3 for Scissors**
+   - The computer will randomly choose an option.
+   - The choices will be displayed, and the winner will be determined based on the rules.
+   - You can choose to play again or quit the game.
+
+4. **Game Flow:**
+   - Enter your choice.
+   - The computer makes its choice.
+   - The result is displayed (Win, Lose, or Draw).
+   - You decide whether to play again or exit.
+
+5. **Ending the Game:**
+   - If you wish to stop playing, enter **"N"** when asked.
+   - The game will end with a **"Thanks for playing!"** message.
+
+Have fun playing Rock, Paper, Scissors! 🎮
